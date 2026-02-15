@@ -33,7 +33,7 @@ public class UglyNumber263{
       msg = true;
     }
 
-    // now false condition 
+   System.out.println(msg);
 
   
 
